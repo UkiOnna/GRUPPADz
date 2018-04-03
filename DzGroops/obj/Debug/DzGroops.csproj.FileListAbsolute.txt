@@ -1,0 +1,14 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\bin\Debug\DzGroops.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\bin\Debug\DzGroops.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\bin\Debug\DzGroops.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\obj\Debug\DzGroops.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\obj\Debug\MainWindow.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\obj\Debug\App.g.cs
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\obj\Debug\DzGroops_MarkupCompile.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\obj\Debug\DzGroops_MarkupCompile.lref
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\obj\Debug\MainWindow.baml
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\obj\Debug\DzGroops.g.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\obj\Debug\DzGroops.Properties.Resources.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\obj\Debug\DzGroops.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\obj\Debug\DzGroops.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\DzGroops\DzGroops\obj\Debug\DzGroops.pdb
